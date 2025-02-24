@@ -29,6 +29,7 @@ An in-depth paragraph about your project and overview of use.
 
 * How to run the program
 * Step-by-step bullets
+* Download the CVS file [Click here](https://www.kaggle.com/datasets/asinow/car-price-dataset?resource=download)
 ```
 code blocks for commands
 ```
